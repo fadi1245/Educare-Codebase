@@ -42,3 +42,25 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 =======
 # Educare
 >>>>>>> bf436db49e4bda8cd3447d578a6e8482a5cbb2a2
+
+
+## 📦 Tech Stack
+
+- Next.js
+- Bootstrap
+- Framer Motion
+- React Icons
+
+---
+## 🛠️ Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/fadi1245/Educare-Codebase.git
+cd Educare-Codebase
+
+---
+npm install
+
+npm run dev
+
