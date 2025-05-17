@@ -1,0 +1,20 @@
+.bgSection {
+    background-image: url('../../public/asset/background.png');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    color: #000;
+  }
+  .headingMain {
+    color: #8A1538;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+  }
+  
+  .headingSub {
+    color: #8A1538;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 0;
+  }

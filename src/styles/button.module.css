@@ -1,0 +1,27 @@
+.outer {
+    background-color: #EBC48B;
+    display: inline-block;
+    padding: 0;
+    border-radius: 6px;
+    overflow: visible;
+    padding: 2px;
+  }
+  
+  .inner {
+    background-color: #8A1538;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.75rem 2rem;
+    border-radius: 4px;
+    display: inline-block;
+    transform: rotate(-3deg); 
+    transition: transform 0.3s ease;
+  }
+  
+  .outer:hover .inner {
+    transform: rotate(0deg);
+  }
+  .icon {
+    font-size: 25px;
+    margin-left: 5px;
+  }
